@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@layerzerolabs/lz-definitions": "^3.0.47",
+    "@layerzerolabs/lz-v2-utilities": "^3.0.47",
+    "ethers": "^5.7.2",
+    "typescript": "^5.7.3"
+  }
+}
